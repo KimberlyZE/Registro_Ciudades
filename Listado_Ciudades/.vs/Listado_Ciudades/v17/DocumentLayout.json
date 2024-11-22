@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|c:\\users\\administrador\\source\\repos\\listado_ciudades\\listado_ciudades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|solutionrelative:listado_ciudades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|c:\\users\\administrador\\source\\repos\\listado_ciudades\\listado_ciudades\\ciudadarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|solutionrelative:listado_ciudades\\ciudadarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|c:\\users\\administrador\\source\\repos\\listado_ciudades\\listado_ciudades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|solutionrelative:listado_ciudades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|c:\\users\\administrador\\source\\repos\\listado_ciudades\\listado_ciudades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48513FA5-7F89-48B6-A70A-3C3E91729D67}|Listado_Ciudades\\Listado_Ciudades.csproj|solutionrelative:listado_ciudades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Form1.cs",
+              "RelativeDocumentMoniker": "Listado_Ciudades\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Form1.cs",
+              "RelativeToolTip": "Listado_Ciudades\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAjwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:27:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Ciudad.cs",
+              "RelativeDocumentMoniker": "Listado_Ciudades\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Ciudad.cs",
+              "RelativeToolTip": "Listado_Ciudades\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:50:52.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Form1.cs",
+              "RelativeDocumentMoniker": "Listado_Ciudades\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\Form1.cs [Design]",
+              "RelativeToolTip": "Listado_Ciudades\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:19:03.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CiudadArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\CiudadArchivo.cs",
+              "RelativeDocumentMoniker": "Listado_Ciudades\\CiudadArchivo.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Listado_Ciudades\\Listado_Ciudades\\CiudadArchivo.cs",
+              "RelativeToolTip": "Listado_Ciudades\\CiudadArchivo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:05:17.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

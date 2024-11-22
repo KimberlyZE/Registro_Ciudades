@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\bin\Debug\Listado_Ciudades.exe.config
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\bin\Debug\Listado_Ciudades.exe
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\bin\Debug\Listado_Ciudades.pdb
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.Form1.resources
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.exe
+C:\Users\Administrador\source\repos\Listado_Ciudades\Listado_Ciudades\obj\Debug\Listado_Ciudades.pdb
